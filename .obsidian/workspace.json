@@ -11,10 +11,14 @@
             "id": "2955c9b2b352b665",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "~/14/Welcome1111.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Welcome1111"
             }
           }
         ]
@@ -190,14 +194,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e49fa86bac3226c5",
+  "active": "2955c9b2b352b665",
   "lastOpenFiles": [
     "~/14/Untitled 2.base",
     "~/14/Untitled 1.base",
     "~/14/Untitled.canvas",
     "~/14/Untitled.base",
     "Untitled 2.base",
-    "~/14/Welcome.md",
+    "~/14/Welcome1111.md",
     "~/14/122.md",
     "Untitled.base",
     "2026-02-02.md",
