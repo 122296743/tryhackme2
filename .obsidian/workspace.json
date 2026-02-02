@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c005474e214efb",
+        "id": "021b8083ca990725",
         "type": "tabs",
         "children": [
           {
-            "id": "21f71b6f3a29166a",
+            "id": "69f574affebf5aaa",
             "type": "leaf",
             "state": {
               "type": "bases",
               "state": {
-                "file": "Untitled.base",
+                "file": "Untitled 2.base",
                 "viewName": "Table"
               },
               "icon": "lucide-table",
-              "title": "Untitled"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "Untitled 2.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Untitled 2"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "Untitled 2.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Untitled 2"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.base",
+                "file": "Untitled 2.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Untitled 2"
             }
           },
           {
@@ -193,12 +193,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21f71b6f3a29166a",
+  "active": "69f574affebf5aaa",
   "lastOpenFiles": [
+    "Untitled 2.base",
+    "2026-02-02.md",
+    "Untitled 1.base",
+    "122.md",
+    "Untitled",
     "Untitled.canvas",
     "Untitled.base",
-    "2026-02-02.md",
-    "122.md",
     "Welcome.md"
   ]
 }
