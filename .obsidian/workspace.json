@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "55dd6d0299db2344",
+        "id": "265f3f3fc13f7bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "18799f46f28b1783",
+            "id": "ac38693254bbf559",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "~/14/Welcome1111.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome1111"
+              "title": "New tab"
             }
           }
         ]
@@ -194,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18799f46f28b1783",
+  "active": "ac38693254bbf559",
   "lastOpenFiles": [
     "~/14/Welcome1111.md",
     "~/14/Untitled 2.base",
